@@ -1,3 +1,3 @@
-use std::<caret>collections::Bound;
+use std::collections::Bo<caret>und;
 
 fn main() {}
